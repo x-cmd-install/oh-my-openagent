@@ -2,25 +2,25 @@ about:
   description: "OmO: Drop your tokens. Ultrawork. Done."
   license: NOASSERTION
   homepage: https://omo.dev
-  head: 3caffe6
+  head: a470d3d
   archived: false
-  latestVersion: "v5.0.0-beta.46"
-  collectedAt: 2026-09-07T05:21:17Z
+  latestVersion: "v5.0.0-beta.48"
+  collectedAt: 2026-09-07T19:09:19Z
 timeline:
   created: 2025-12-03
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 68773
+  star: 68790
   watcher: 230
-  fork: 5651
-  release: 269
+  fork: 5650
+  release: 271
   contributor: 318
-  pullRequest: 5056
-  issue: 2684
+  pullRequest: 5076
+  issue: 2698
 language:
-  TypeScript: 27861984
-  JavaScript: 2953856
+  TypeScript: 28019763
+  JavaScript: 2960722
   HTML: 1936232
   Shell: 603959
   Python: 415248
@@ -29,81 +29,81 @@ language:
   Dockerfile: 1728
   Go Template: 1174
   Go: 993
-totalBytes: 33826876
+totalBytes: 33991521
 recent:
   last30d:
     since: 2026-08-08
-    release: 44
-    mergedPR: 591
-    openPR: 251
-    closedIssue: 73
-    openIssue: 148
-    commit: 2824
+    release: 46
+    mergedPR: 608
+    openPR: 250
+    closedIssue: 81
+    openIssue: 154
+    commit: 2910
   last60d:
     since: 2026-07-09
-    release: 57
-    mergedPR: 929
-    openPR: 303
-    closedIssue: 145
-    openIssue: 236
-    commit: 4785
+    release: 59
+    mergedPR: 946
+    openPR: 302
+    closedIssue: 153
+    openIssue: 242
+    commit: 4871
   last90d:
     since: 2026-06-09
-    release: 74
-    mergedPR: 1359
-    openPR: 363
-    closedIssue: 267
-    openIssue: 296
-    commit: 6846
+    release: 76
+    mergedPR: 1376
+    openPR: 362
+    closedIssue: 275
+    openIssue: 302
+    commit: 6932
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 2353
-    openPR: 402
-    closedIssue: 1004
-    openIssue: 447
-    commit: 13190
+    mergedPR: 2370
+    openPR: 401
+    closedIssue: 1012
+    openIssue: 453
+    commit: 13276
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 3068
-    openPR: 413
-    closedIssue: 2149
-    openIssue: 535
-    commit: 17730
+    mergedPR: 3085
+    openPR: 412
+    closedIssue: 2157
+    openIssue: 541
+    commit: 17816
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 3068
-    openPR: 413
-    closedIssue: 2149
-    openIssue: 535
-    commit: 15425
+    mergedPR: 3085
+    openPR: 412
+    closedIssue: 2157
+    openIssue: 541
+    commit: 15511
 total:
-  release: 269
-  mergedPR: 3069
-  openPR: 413
-  closedIssue: 2149
-  openIssue: 535
-  commit: 15425
+  release: 271
+  mergedPR: 3086
+  openPR: 412
+  closedIssue: 2157
+  openIssue: 541
+  commit: 15511
 ---
 path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
-collectedAt: 2026-09-07T05:21:37Z
+collectedAt: 2026-09-07T19:09:37Z
 loc:
   TypeScript:
-    code: 631779
-    comments: 51271
-    blanks: 94670
-    files: 5843
+    code: 634835
+    comments: 51542
+    blanks: 95094
+    files: 5862
   Json:
     code: 113115
     comments: 0
     blanks: 0
     files: 209
   JavaScript:
-    code: 62067
-    comments: 2727
-    blanks: 4895
+    code: 62181
+    comments: 2733
+    blanks: 4897
     files: 329
   Python:
     code: 7576
@@ -157,8 +157,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 42401
-    blanks: 17233
+    comments: 42512
+    blanks: 17248
     files: 475
   Text:
     code: 0
@@ -166,43 +166,43 @@ loc:
     blanks: 71
     files: 17
 total:
-  code: 832744
-  comments: 100143
-  blanks: 121081
-  files: 7042
+  code: 835914
+  comments: 100531
+  blanks: 121522
+  files: 7061
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:21:46+00:00
+  collectedAt: 2026-09-07T19:09:40+00:00
   platform:
     darwin/arm64:
       name:  omo-darwin-arm64
-      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.46/omo-darwin-arm64
-      size:  112786034
+      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.48/omo-darwin-arm64
+      size:  112852082
       score: 35
     darwin/amd64:
       name:  omo-darwin-x64
-      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.46/omo-darwin-x64
-      size:  118218144
+      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.48/omo-darwin-x64
+      size:  118300064
       score: 35
     linux/arm64:
       name:  omo-linux-arm64-musl
-      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.46/omo-linux-arm64-musl
-      size:  123014256
+      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.48/omo-linux-arm64-musl
+      size:  123079792
       score: 35
     linux/amd64:
       name:  omo-linux-x64-musl
-      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.46/omo-linux-x64-musl
-      size:  123803096
+      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.48/omo-linux-x64-musl
+      size:  123876824
       score: 35
     win/arm64:
       name:  omo-windows-arm64.exe
-      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.46/omo-windows-arm64.exe
-      size:  126107648
+      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.48/omo-windows-arm64.exe
+      size:  126180352
       score: 35
     win/amd64:
       name:  omo-windows-x64-baseline.exe
-      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.46/omo-windows-x64-baseline.exe
-      size:  136357376
+      url:   https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.48/omo-windows-x64-baseline.exe
+      size:  136430080
       score: 35
