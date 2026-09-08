@@ -2,25 +2,25 @@ about:
   description: "OmO: Drop your tokens. Ultrawork. Done."
   license: NOASSERTION
   homepage: https://omo.dev
-  head: 31721f1
+  head: dc84776
   archived: false
   latestVersion: "v5.0.0-beta.48"
-  collectedAt: 2026-09-08T02:33:24Z
+  collectedAt: 2026-09-08T05:13:37Z
 timeline:
   created: 2025-12-03
   lastCommit: 2026-09-08
   lastRelease: 2026-09-07
 popularity:
-  star: 68796
+  star: 68801
   watcher: 230
-  fork: 5650
+  fork: 5651
   release: 271
   contributor: 318
-  pullRequest: 5081
-  issue: 2700
+  pullRequest: 5093
+  issue: 2702
 language:
-  TypeScript: 28021829
-  JavaScript: 2960722
+  TypeScript: 28111792
+  JavaScript: 2967961
   HTML: 1936232
   Shell: 603959
   Python: 415248
@@ -29,82 +29,82 @@ language:
   Dockerfile: 1728
   Go Template: 1174
   Go: 993
-totalBytes: 33993587
+totalBytes: 34090789
 recent:
   last30d:
     since: 2026-08-09
     release: 46
-    mergedPR: 593
-    openPR: 252
-    closedIssue: 82
-    openIssue: 152
-    commit: 2915
+    mergedPR: 599
+    openPR: 258
+    closedIssue: 83
+    openIssue: 153
+    commit: 2974
   last60d:
     since: 2026-07-10
     release: 58
-    mergedPR: 925
-    openPR: 306
-    closedIssue: 151
-    openIssue: 242
-    commit: 4876
+    mergedPR: 931
+    openPR: 312
+    closedIssue: 152
+    openIssue: 243
+    commit: 4935
   last90d:
     since: 2026-06-10
     release: 75
-    mergedPR: 1352
-    openPR: 366
-    closedIssue: 267
-    openIssue: 300
-    commit: 6937
+    mergedPR: 1358
+    openPR: 372
+    closedIssue: 268
+    openIssue: 301
+    commit: 6996
   last180d:
     since: 2026-03-12
     release: 100
-    mergedPR: 2360
-    openPR: 404
-    closedIssue: 1003
-    openIssue: 447
-    commit: 13281
+    mergedPR: 2366
+    openPR: 410
+    closedIssue: 1004
+    openIssue: 448
+    commit: 13340
   last360d:
     since: 2025-09-13
     release: 100
-    mergedPR: 3086
-    openPR: 416
-    closedIssue: 2158
-    openIssue: 542
-    commit: 17821
+    mergedPR: 3092
+    openPR: 422
+    closedIssue: 2159
+    openIssue: 543
+    commit: 17880
   last720d:
     since: 2024-09-18
     release: 100
-    mergedPR: 3086
-    openPR: 416
-    closedIssue: 2158
-    openIssue: 542
-    commit: 15516
+    mergedPR: 3092
+    openPR: 422
+    closedIssue: 2159
+    openIssue: 543
+    commit: 15575
 total:
   release: 271
-  mergedPR: 3087
-  openPR: 416
-  closedIssue: 2158
-  openIssue: 542
-  commit: 15516
+  mergedPR: 3093
+  openPR: 422
+  closedIssue: 2159
+  openIssue: 543
+  commit: 15575
 ---
 path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
-collectedAt: 2026-09-08T02:33:45Z
+collectedAt: 2026-09-08T05:13:56Z
 loc:
   TypeScript:
-    code: 634870
-    comments: 51545
-    blanks: 95101
-    files: 5862
+    code: 636347
+    comments: 51675
+    blanks: 95286
+    files: 5875
   Json:
     code: 113115
     comments: 0
     blanks: 0
     files: 209
   JavaScript:
-    code: 62181
-    comments: 2733
-    blanks: 4897
-    files: 329
+    code: 62264
+    comments: 2759
+    blanks: 4901
+    files: 330
   Python:
     code: 7576
     comments: 415
@@ -157,8 +157,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 42515
-    blanks: 17250
+    comments: 42498
+    blanks: 17254
     files: 475
   Text:
     code: 0
@@ -166,10 +166,10 @@ loc:
     blanks: 71
     files: 17
 total:
-  code: 835949
-  comments: 100537
-  blanks: 121531
-  files: 7061
+  code: 837507
+  comments: 100676
+  blanks: 121724
+  files: 7075
 ---
 
 ---
