@@ -2,29 +2,29 @@ about:
   description: "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
   license: NOASSERTION
   homepage: https://omo.dev
-  head: fd35b9a
+  head: 4ec56b7
   archived: false
-  latestVersion: "v5.0.0-beta.49"
-  latestRelease: "v5.0.0-beta.49"
+  latestVersion: "v5.0.0-beta.51"
+  latestRelease: "v5.0.0-beta.51"
   latestPrerelease: "_pr-attachments"
-  collectedAt: 2026-09-09T05:22:56Z
+  collectedAt: 2026-09-09T19:52:58Z
 timeline:
   created: 2025-12-03
   lastCommit: 2026-09-09
-  lastVersion: 2026-09-08
-  lastRelease: 2026-09-08
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 2026-06-23
 popularity:
-  star: 68834
+  star: 68853
   watcher: 231
-  fork: 5654
-  release: 272
+  fork: 5655
+  release: 274
   contributor: 319
-  pullRequest: 5143
-  issue: 2707
+  pullRequest: 5171
+  issue: 2711
 language:
-  TypeScript: 28528844
-  JavaScript: 2988043
+  TypeScript: 28555788
+  JavaScript: 3008092
   HTML: 1936232
   Shell: 617356
   Python: 426885
@@ -33,82 +33,82 @@ language:
   Dockerfile: 1728
   Go Template: 1174
   Go: 993
-totalBytes: 34561221
+totalBytes: 34608214
 recent:
   last30d:
     since: 2026-08-10
-    release: 46
-    mergedPR: 624
-    openPR: 255
-    closedIssue: 87
-    openIssue: 142
-    commit: 3220
+    release: 48
+    mergedPR: 636
+    openPR: 266
+    closedIssue: 89
+    openIssue: 145
+    commit: 3269
   last60d:
     since: 2026-07-11
-    release: 57
-    mergedPR: 958
-    openPR: 315
-    closedIssue: 158
-    openIssue: 242
-    commit: 5181
+    release: 59
+    mergedPR: 970
+    openPR: 326
+    closedIssue: 160
+    openIssue: 245
+    commit: 5230
   last90d:
     since: 2026-06-11
-    release: 76
-    mergedPR: 1399
-    openPR: 375
-    closedIssue: 267
-    openIssue: 295
-    commit: 7242
+    release: 78
+    mergedPR: 1411
+    openPR: 386
+    closedIssue: 269
+    openIssue: 298
+    commit: 7291
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 2408
-    openPR: 413
-    closedIssue: 1007
-    openIssue: 446
-    commit: 13586
+    mergedPR: 2420
+    openPR: 424
+    closedIssue: 1009
+    openIssue: 449
+    commit: 13635
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 3136
-    openPR: 425
-    closedIssue: 2165
-    openIssue: 542
-    commit: 18126
+    mergedPR: 3148
+    openPR: 436
+    closedIssue: 2166
+    openIssue: 545
+    commit: 18175
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 3136
-    openPR: 425
-    closedIssue: 2165
-    openIssue: 542
-    commit: 15810
+    mergedPR: 3148
+    openPR: 436
+    closedIssue: 2166
+    openIssue: 545
+    commit: 15859
 total:
-  release: 272
-  mergedPR: 3137
-  openPR: 425
-  closedIssue: 2165
-  openIssue: 542
-  commit: 15810
+  release: 274
+  mergedPR: 3149
+  openPR: 436
+  closedIssue: 2166
+  openIssue: 545
+  commit: 15859
 ---
 path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
-collectedAt: 2026-09-09T05:23:15Z
+collectedAt: 2026-09-09T19:53:16Z
 loc:
   TypeScript:
-    code: 641450
-    comments: 52109
-    blanks: 95899
-    files: 5917
+    code: 641989
+    comments: 52168
+    blanks: 95995
+    files: 5926
   Json:
-    code: 113204
+    code: 113207
     comments: 0
     blanks: 0
     files: 209
   JavaScript:
-    code: 62398
-    comments: 2768
-    blanks: 4905
-    files: 339
+    code: 62875
+    comments: 2785
+    blanks: 4919
+    files: 340
   Python:
     code: 7576
     comments: 415
@@ -161,8 +161,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 42927
-    blanks: 17503
+    comments: 42933
+    blanks: 17509
     files: 480
   Text:
     code: 0
@@ -170,10 +170,10 @@ loc:
     blanks: 71
     files: 17
 total:
-  code: 845643
-  comments: 101749
-  blanks: 122774
-  files: 7160
+  code: 846662
+  comments: 101831
+  blanks: 122890
+  files: 7170
 ---
 
 ---
