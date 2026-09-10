@@ -2,12 +2,12 @@ about:
   description: "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
   license: NOASSERTION
   homepage: https://omo.dev
-  head: 4212d35
+  head: 7918f24
   archived: false
-  latestVersion: "v5.0.0-beta.52"
-  latestRelease: "v5.0.0-beta.52"
+  latestVersion: "v5.0.0-beta.53"
+  latestRelease: "v5.0.0-beta.53"
   latestPrerelease: "_pr-attachments"
-  collectedAt: 2026-09-10T17:30:19Z
+  collectedAt: 2026-09-10T23:49:48Z
 timeline:
   created: 2025-12-03
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-06-23
 popularity:
-  star: 68897
+  star: 68911
   watcher: 232
-  fork: 5661
-  release: 275
+  fork: 5665
+  release: 276
   contributor: 320
-  pullRequest: 5209
+  pullRequest: 5212
   issue: 2733
 language:
   TypeScript: 29096398
@@ -37,62 +37,62 @@ totalBytes: 35244791
 recent:
   last30d:
     since: 2026-08-11
-    release: 45
-    mergedPR: 674
+    release: 46
+    mergedPR: 675
     openPR: 247
     closedIssue: 116
     openIssue: 128
-    commit: 3601
+    commit: 3603
   last60d:
     since: 2026-07-12
-    release: 59
-    mergedPR: 1004
+    release: 60
+    mergedPR: 1005
     openPR: 313
     closedIssue: 189
     openIssue: 234
-    commit: 5562
+    commit: 5564
   last90d:
     since: 2026-06-12
-    release: 77
-    mergedPR: 1453
+    release: 78
+    mergedPR: 1454
     openPR: 371
     closedIssue: 296
     openIssue: 287
-    commit: 7623
+    commit: 7625
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 2469
+    mergedPR: 2470
     openPR: 412
     closedIssue: 1036
     openIssue: 438
-    commit: 13967
+    commit: 13969
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 3198
+    mergedPR: 3199
     openPR: 424
     closedIssue: 2198
     openIssue: 535
-    commit: 18507
+    commit: 18509
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 3198
+    mergedPR: 3199
     openPR: 424
     closedIssue: 2198
     openIssue: 535
-    commit: 16203
+    commit: 16205
 total:
-  release: 275
-  mergedPR: 3199
+  release: 276
+  mergedPR: 3200
   openPR: 424
   closedIssue: 2198
   openIssue: 535
-  commit: 16203
+  commit: 16205
 ---
 path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
-collectedAt: 2026-09-10T17:30:44Z
+collectedAt: 2026-09-10T23:50:09Z
 loc:
   TypeScript:
     code: 651121
