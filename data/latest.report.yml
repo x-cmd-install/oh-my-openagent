@@ -2,29 +2,29 @@ about:
   description: "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
   license: NOASSERTION
   homepage: https://omo.dev
-  head: 4ec56b7
+  head: 4d86265
   archived: false
   latestVersion: "v5.0.0-beta.51"
   latestRelease: "v5.0.0-beta.51"
   latestPrerelease: "_pr-attachments"
-  collectedAt: 2026-09-09T19:52:58Z
+  collectedAt: 2026-09-10T05:25:25Z
 timeline:
   created: 2025-12-03
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-09
   lastRelease: 2026-09-09
   lastPrerelease: 2026-06-23
 popularity:
-  star: 68853
-  watcher: 231
-  fork: 5655
+  star: 68869
+  watcher: 232
+  fork: 5657
   release: 274
   contributor: 319
-  pullRequest: 5171
-  issue: 2711
+  pullRequest: 5175
+  issue: 2713
 language:
-  TypeScript: 28555788
-  JavaScript: 3008092
+  TypeScript: 28560489
+  JavaScript: 3008254
   HTML: 1936232
   Shell: 617356
   Python: 426885
@@ -33,82 +33,82 @@ language:
   Dockerfile: 1728
   Go Template: 1174
   Go: 993
-totalBytes: 34608214
+totalBytes: 34613077
 recent:
   last30d:
-    since: 2026-08-10
-    release: 48
-    mergedPR: 636
-    openPR: 266
-    closedIssue: 89
-    openIssue: 145
-    commit: 3269
+    since: 2026-08-11
+    release: 44
+    mergedPR: 627
+    openPR: 260
+    closedIssue: 88
+    openIssue: 136
+    commit: 3276
   last60d:
-    since: 2026-07-11
-    release: 59
-    mergedPR: 970
+    since: 2026-07-12
+    release: 58
+    mergedPR: 957
     openPR: 326
-    closedIssue: 160
-    openIssue: 245
-    commit: 5230
+    closedIssue: 159
+    openIssue: 244
+    commit: 5237
   last90d:
-    since: 2026-06-11
-    release: 78
-    mergedPR: 1411
-    openPR: 386
-    closedIssue: 269
+    since: 2026-06-12
+    release: 76
+    mergedPR: 1406
+    openPR: 384
+    closedIssue: 265
     openIssue: 298
-    commit: 7291
+    commit: 7298
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 100
-    mergedPR: 2420
-    openPR: 424
-    closedIssue: 1009
+    mergedPR: 2422
+    openPR: 425
+    closedIssue: 1005
     openIssue: 449
-    commit: 13635
+    commit: 13642
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 100
-    mergedPR: 3148
-    openPR: 436
-    closedIssue: 2166
-    openIssue: 545
-    commit: 18175
+    mergedPR: 3151
+    openPR: 437
+    closedIssue: 2167
+    openIssue: 546
+    commit: 18182
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 100
-    mergedPR: 3148
-    openPR: 436
-    closedIssue: 2166
-    openIssue: 545
-    commit: 15859
+    mergedPR: 3151
+    openPR: 437
+    closedIssue: 2167
+    openIssue: 546
+    commit: 15866
 total:
   release: 274
-  mergedPR: 3149
-  openPR: 436
-  closedIssue: 2166
-  openIssue: 545
-  commit: 15859
+  mergedPR: 3152
+  openPR: 437
+  closedIssue: 2167
+  openIssue: 546
+  commit: 15866
 ---
 path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
-collectedAt: 2026-09-09T19:53:16Z
+collectedAt: 2026-09-10T05:25:59Z
 loc:
   TypeScript:
-    code: 641989
-    comments: 52168
-    blanks: 95995
-    files: 5926
+    code: 642102
+    comments: 52171
+    blanks: 96003
+    files: 5927
   Json:
     code: 113207
     comments: 0
     blanks: 0
     files: 209
   JavaScript:
-    code: 62875
+    code: 62878
     comments: 2785
-    blanks: 4919
-    files: 340
+    blanks: 4920
+    files: 341
   Python:
     code: 7576
     comments: 415
@@ -170,11 +170,11 @@ loc:
     blanks: 71
     files: 17
 total:
-  code: 846662
-  comments: 101831
-  blanks: 122890
-  files: 7170
+  code: 846778
+  comments: 101834
+  blanks: 122899
+  files: 7172
 ---
 
 ---
-{"id":385431566,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQheEEc4W-TgO","tag_name":"v5.0.0-beta.51","target_commitish":"dev","name":"v5.0.0-beta.51","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T10:31:06Z","updated_at":"2026-09-09T10:51:17Z","published_at":"2026-09-09T10:45:49Z","assets":[{"id":552559569,"node_id":"RA_kwDOQheEEc4g72PR","name":"omo-darwin-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":125269746,"digest":"sha256:d8eb106051ffeea90b2dc7ae9329a9167d738b86df5d33b84766df66bbb1b02a","download_count":7,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:25Z"},{"id":552559570,"node_id":"RA_kwDOQheEEc4g72PS","name":"omo-darwin-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":130904336,"digest":"sha256:0dee0dbf6c061268d85770f4d46b597a5383a000be7b791beb522c4dfe06e680","download_count":5,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:25Z"},{"id":552559568,"node_id":"RA_kwDOQheEEc4g72PQ","name":"omo-darwin-x64-baseline","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":130904336,"digest":"sha256:3dff4b857b7eb8fc76dae1f17afd2235103648a0086a54327d3229f77612f5b2","download_count":5,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:24Z"},{"id":552559572,"node_id":"RA_kwDOQheEEc4g72PU","name":"omo-linux-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":142854440,"digest":"sha256:820a53cf17b5ff56a671ef6fb07569179ec7e5282c9feb672c38a433de2f3096","download_count":6,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:25Z"},{"id":552559566,"node_id":"RA_kwDOQheEEc4g72PO","name":"omo-linux-arm64-musl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":135990480,"digest":"sha256:0514944b661996fba79f772c8dc3328979e4b8b8b51a9fcdacb0440fdc2e561a","download_count":5,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:26Z"},{"id":552560050,"node_id":"RA_kwDOQheEEc4g72Wy","name":"omo-linux-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":142890464,"digest":"sha256:f0fca39af7fc09f4fc2e194b2d6187a42159783b19ce1656a9922cd77c27ec7a","download_count":8,"created_at":"2026-09-09T10:46:24Z","updated_at":"2026-09-09T10:46:44Z"},{"id":552560074,"node_id":"RA_kwDOQheEEc4g72XK","name":"omo-linux-x64-baseline","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":142890464,"digest":"sha256:76ada989b24d9f7b041c0e475b9b21c921de99338484b0671f0cdb4b48a810a1","download_count":5,"created_at":"2026-09-09T10:46:25Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560077,"node_id":"RA_kwDOQheEEc4g72XN","name":"omo-linux-x64-musl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":136861232,"digest":"sha256:2eab17ee82611273b46b3948f3b15b0a47f8d3e16303559edba00b6b422930f4","download_count":5,"created_at":"2026-09-09T10:46:25Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560082,"node_id":"RA_kwDOQheEEc4g72XS","name":"omo-linux-x64-musl-baseline","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":136861232,"digest":"sha256:5951ebaf5828ce66edbc70ea24a95efeabdc9131c3937d35e8611f85040a077e","download_count":5,"created_at":"2026-09-09T10:46:26Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560094,"node_id":"RA_kwDOQheEEc4g72Xe","name":"omo-windows-arm64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":139176448,"digest":"sha256:be4692d80a262e15897230acad4813df18940645edcb70ef2af3c4c280bab069","download_count":5,"created_at":"2026-09-09T10:46:26Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560536,"node_id":"RA_kwDOQheEEc4g72eY","name":"omo-windows-x64-baseline.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147684352,"digest":"sha256:b569ccfeab59a78b43189663dc868536ba10416aa695c975a735587fb40653e8","download_count":6,"created_at":"2026-09-09T10:46:44Z","updated_at":"2026-09-09T10:46:51Z"},{"id":552560592,"node_id":"RA_kwDOQheEEc4g72fQ","name":"omo-windows-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147684352,"digest":"sha256:f9c1cab51a381680693a8befa657c42619a06f8aac4886559fcdedb4b81a37f0","download_count":11,"created_at":"2026-09-09T10:46:45Z","updated_at":"2026-09-09T10:46:51Z"},{"id":552560600,"node_id":"RA_kwDOQheEEc4g72fY","name":"SHA256SUMS","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":1040,"digest":"sha256:6645c4b08c12079b809d008ba7c7b8b3f6aacf49f7c47afb7f1b376914e34906","download_count":5,"created_at":"2026-09-09T10:46:45Z","updated_at":"2026-09-09T10:46:46Z"}],"body":"## OMO 5.0.0-beta.51\n\nRecall stops dying after an upgrade, thread tools stop appearing on hosts that cannot run them, and the engine gains GPT Image 2.5 with reference-image editing.\n\n### Memory\n\n**Recall survives an upgrade that lands under a running session.** The recall gate read its judge persona from beside the plugin bundle on every single fire, so the file had to still exist, under its current name, in an install tree that changes while sessions run. After the Kibitzer rename shipped in beta.50, every session whose process had loaded the previous bundle kept opening the retired filename and each recall gate died with `session_create_failed`; one machine logged 155 of them. Persona filenames now have a single definition, each asset is read at most once per process, and all four personas are primed when the memory component registers \u2014 so a process keeps serving the payload it started from and a later upgrade, prune, or rename cannot turn its next judge launch into a missing-file error. A persona that genuinely cannot be read is reported once, by name, with its cause, and is never silently substituted (#8016).\n\n**Packaging now guarantees the assets the runtime reads.** The published `omo-ai` payload validator had drifted from the local install validator and no longer required the gate persona, so a staging regression could have shipped a package whose every recall gate failed while the completeness check stayed green. Both validators derive from one list, and the payload test proves the check names a missing persona instead of passing (#8016).\n\n**`omo doctor` names sessions that are running a retired payload.** An in-place upgrade cannot rewrite a process that is already running; doctor compares each engine against the payload on its own `--extension` path and tells you exactly which sessions to restart. It never signals those processes, and they stay outside `--reap` (#8016).\n\n### Sessions and tasks\n\n**Thread tools only appear where they can actually work.** They now follow the engine's shared-host capability, read from the host instead of guessed from ambient environment variables: off means no thread tools, on means all six, still search-only (#8010, #8011).\n\n### Platform\n\n**Windows DAG runs no longer trip over lock cleanup.** A concurrent start could leave the losing worker unable to remove its own quarantined lock while another process still held a handle, which Windows reports as a sharing violation rather than the POSIX unlink semantics the code assumed. Cleanup retries briefly on Windows, and worker failures report message, syscall, and path (#8005).\n\n**LazyCodex installs agree with the migration guard.** The installer treated only the model heuristic as MultiAgent V2 while the guard also honored an explicit `[features.multi_agent_v2] enabled = true`; both follow the same rule now, and spawn-guard storage errors surface on stderr instead of being swallowed (#8008).\n\n### Engine: senpi 2026.9.9-2\n\n**GPT Image 2.5 with reference-image editing.** `generate_image` gains model selection (`gpt-image-2.5-sunburst` by default, plus `gpt-image-2.5-flare` and `gpt-image-2`), `xhigh` and `max` quality, free-form validated sizes, and `reference_image_paths` \u2014 up to five local PNG/JPEG/WEBP files that are edited or referenced through the images edit endpoint instead of being rejected.\n\n**Compact read classifications.** Extensions can register a read classifier, so a read is presented by what it is rather than by its path; OmO's memory component uses it for memory-read headlines.\n\n**Oversized sessions resume instead of refusing.** A restored transcript in the compaction band opens in a required-compaction state and compacts before the first prompt, rather than failing model-budget admission at construction time.\n\n**Cold starts with injected context are classified correctly.** A fresh `claude-sdk-oauth` session whose first turn carries several user messages reports continuity as a bootstrap instead of a false registry miss.\n\n**Extensions can see the shared-host policy at registration**, which is what the thread-tool gating above consumes.\n\n---\n\n```bash\nnpm i -g omo-ai@beta\n```\n\nAfter updating, restart your sessions: a running process cannot adopt a new payload in place, and `omo doctor` will name the ones still on the old one.\n","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":385431566,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQheEEc4W-TgO","tag_name":"v5.0.0-beta.51","target_commitish":"dev","name":"v5.0.0-beta.51","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T10:31:06Z","updated_at":"2026-09-09T10:51:17Z","published_at":"2026-09-09T10:45:49Z","assets":[{"id":552559569,"node_id":"RA_kwDOQheEEc4g72PR","name":"omo-darwin-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":125269746,"digest":"sha256:d8eb106051ffeea90b2dc7ae9329a9167d738b86df5d33b84766df66bbb1b02a","download_count":7,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:25Z"},{"id":552559570,"node_id":"RA_kwDOQheEEc4g72PS","name":"omo-darwin-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":130904336,"digest":"sha256:0dee0dbf6c061268d85770f4d46b597a5383a000be7b791beb522c4dfe06e680","download_count":5,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:25Z"},{"id":552559568,"node_id":"RA_kwDOQheEEc4g72PQ","name":"omo-darwin-x64-baseline","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":130904336,"digest":"sha256:3dff4b857b7eb8fc76dae1f17afd2235103648a0086a54327d3229f77612f5b2","download_count":5,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:24Z"},{"id":552559572,"node_id":"RA_kwDOQheEEc4g72PU","name":"omo-linux-arm64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":142854440,"digest":"sha256:820a53cf17b5ff56a671ef6fb07569179ec7e5282c9feb672c38a433de2f3096","download_count":6,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:25Z"},{"id":552559566,"node_id":"RA_kwDOQheEEc4g72PO","name":"omo-linux-arm64-musl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":135990480,"digest":"sha256:0514944b661996fba79f772c8dc3328979e4b8b8b51a9fcdacb0440fdc2e561a","download_count":5,"created_at":"2026-09-09T10:46:05Z","updated_at":"2026-09-09T10:46:26Z"},{"id":552560050,"node_id":"RA_kwDOQheEEc4g72Wy","name":"omo-linux-x64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":142890464,"digest":"sha256:f0fca39af7fc09f4fc2e194b2d6187a42159783b19ce1656a9922cd77c27ec7a","download_count":11,"created_at":"2026-09-09T10:46:24Z","updated_at":"2026-09-09T10:46:44Z"},{"id":552560074,"node_id":"RA_kwDOQheEEc4g72XK","name":"omo-linux-x64-baseline","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":142890464,"digest":"sha256:76ada989b24d9f7b041c0e475b9b21c921de99338484b0671f0cdb4b48a810a1","download_count":5,"created_at":"2026-09-09T10:46:25Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560077,"node_id":"RA_kwDOQheEEc4g72XN","name":"omo-linux-x64-musl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":136861232,"digest":"sha256:2eab17ee82611273b46b3948f3b15b0a47f8d3e16303559edba00b6b422930f4","download_count":7,"created_at":"2026-09-09T10:46:25Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560082,"node_id":"RA_kwDOQheEEc4g72XS","name":"omo-linux-x64-musl-baseline","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":136861232,"digest":"sha256:5951ebaf5828ce66edbc70ea24a95efeabdc9131c3937d35e8611f85040a077e","download_count":5,"created_at":"2026-09-09T10:46:26Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560094,"node_id":"RA_kwDOQheEEc4g72Xe","name":"omo-windows-arm64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":139176448,"digest":"sha256:be4692d80a262e15897230acad4813df18940645edcb70ef2af3c4c280bab069","download_count":5,"created_at":"2026-09-09T10:46:26Z","updated_at":"2026-09-09T10:46:45Z"},{"id":552560536,"node_id":"RA_kwDOQheEEc4g72eY","name":"omo-windows-x64-baseline.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147684352,"digest":"sha256:b569ccfeab59a78b43189663dc868536ba10416aa695c975a735587fb40653e8","download_count":7,"created_at":"2026-09-09T10:46:44Z","updated_at":"2026-09-09T10:46:51Z"},{"id":552560592,"node_id":"RA_kwDOQheEEc4g72fQ","name":"omo-windows-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147684352,"digest":"sha256:f9c1cab51a381680693a8befa657c42619a06f8aac4886559fcdedb4b81a37f0","download_count":17,"created_at":"2026-09-09T10:46:45Z","updated_at":"2026-09-09T10:46:51Z"},{"id":552560600,"node_id":"RA_kwDOQheEEc4g72fY","name":"SHA256SUMS","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":1040,"digest":"sha256:6645c4b08c12079b809d008ba7c7b8b3f6aacf49f7c47afb7f1b376914e34906","download_count":6,"created_at":"2026-09-09T10:46:45Z","updated_at":"2026-09-09T10:46:46Z"}],"body":"## OMO 5.0.0-beta.51\n\nRecall stops dying after an upgrade, thread tools stop appearing on hosts that cannot run them, and the engine gains GPT Image 2.5 with reference-image editing.\n\n### Memory\n\n**Recall survives an upgrade that lands under a running session.** The recall gate read its judge persona from beside the plugin bundle on every single fire, so the file had to still exist, under its current name, in an install tree that changes while sessions run. After the Kibitzer rename shipped in beta.50, every session whose process had loaded the previous bundle kept opening the retired filename and each recall gate died with `session_create_failed`; one machine logged 155 of them. Persona filenames now have a single definition, each asset is read at most once per process, and all four personas are primed when the memory component registers \u2014 so a process keeps serving the payload it started from and a later upgrade, prune, or rename cannot turn its next judge launch into a missing-file error. A persona that genuinely cannot be read is reported once, by name, with its cause, and is never silently substituted (#8016).\n\n**Packaging now guarantees the assets the runtime reads.** The published `omo-ai` payload validator had drifted from the local install validator and no longer required the gate persona, so a staging regression could have shipped a package whose every recall gate failed while the completeness check stayed green. Both validators derive from one list, and the payload test proves the check names a missing persona instead of passing (#8016).\n\n**`omo doctor` names sessions that are running a retired payload.** An in-place upgrade cannot rewrite a process that is already running; doctor compares each engine against the payload on its own `--extension` path and tells you exactly which sessions to restart. It never signals those processes, and they stay outside `--reap` (#8016).\n\n### Sessions and tasks\n\n**Thread tools only appear where they can actually work.** They now follow the engine's shared-host capability, read from the host instead of guessed from ambient environment variables: off means no thread tools, on means all six, still search-only (#8010, #8011).\n\n### Platform\n\n**Windows DAG runs no longer trip over lock cleanup.** A concurrent start could leave the losing worker unable to remove its own quarantined lock while another process still held a handle, which Windows reports as a sharing violation rather than the POSIX unlink semantics the code assumed. Cleanup retries briefly on Windows, and worker failures report message, syscall, and path (#8005).\n\n**LazyCodex installs agree with the migration guard.** The installer treated only the model heuristic as MultiAgent V2 while the guard also honored an explicit `[features.multi_agent_v2] enabled = true`; both follow the same rule now, and spawn-guard storage errors surface on stderr instead of being swallowed (#8008).\n\n### Engine: senpi 2026.9.9-2\n\n**GPT Image 2.5 with reference-image editing.** `generate_image` gains model selection (`gpt-image-2.5-sunburst` by default, plus `gpt-image-2.5-flare` and `gpt-image-2`), `xhigh` and `max` quality, free-form validated sizes, and `reference_image_paths` \u2014 up to five local PNG/JPEG/WEBP files that are edited or referenced through the images edit endpoint instead of being rejected.\n\n**Compact read classifications.** Extensions can register a read classifier, so a read is presented by what it is rather than by its path; OmO's memory component uses it for memory-read headlines.\n\n**Oversized sessions resume instead of refusing.** A restored transcript in the compaction band opens in a required-compaction state and compacts before the first prompt, rather than failing model-budget admission at construction time.\n\n**Cold starts with injected context are classified correctly.** A fresh `claude-sdk-oauth` session whose first turn carries several user messages reports continuity as a bootstrap instead of a false registry miss.\n\n**Extensions can see the shared-host policy at registration**, which is what the thread-tool gating above consumes.\n\n---\n\n```bash\nnpm i -g omo-ai@beta\n```\n\nAfter updating, restart your sessions: a running process cannot adopt a new payload in place, and `omo doctor` will name the ones still on the old one.\n","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
