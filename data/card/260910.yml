@@ -2,123 +2,123 @@ about:
   description: "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
   license: NOASSERTION
   homepage: https://omo.dev
-  head: 4d86265
+  head: 4212d35
   archived: false
-  latestVersion: "v5.0.0-beta.51"
-  latestRelease: "v5.0.0-beta.51"
+  latestVersion: "v5.0.0-beta.52"
+  latestRelease: "v5.0.0-beta.52"
   latestPrerelease: "_pr-attachments"
-  collectedAt: 2026-09-10T05:25:25Z
+  collectedAt: 2026-09-10T17:30:19Z
 timeline:
   created: 2025-12-03
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-09
-  lastRelease: 2026-09-09
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 2026-06-23
 popularity:
-  star: 68869
+  star: 68897
   watcher: 232
-  fork: 5657
-  release: 274
-  contributor: 319
-  pullRequest: 5175
-  issue: 2713
+  fork: 5661
+  release: 275
+  contributor: 320
+  pullRequest: 5209
+  issue: 2733
 language:
-  TypeScript: 28560489
-  JavaScript: 3008254
+  TypeScript: 29096398
+  JavaScript: 3102249
   HTML: 1936232
-  Shell: 617356
+  Shell: 619166
   Python: 426885
   PowerShell: 41607
   CSS: 18359
   Dockerfile: 1728
   Go Template: 1174
   Go: 993
-totalBytes: 34613077
+totalBytes: 35244791
 recent:
   last30d:
     since: 2026-08-11
-    release: 44
-    mergedPR: 627
-    openPR: 260
-    closedIssue: 88
-    openIssue: 136
-    commit: 3276
+    release: 45
+    mergedPR: 674
+    openPR: 247
+    closedIssue: 116
+    openIssue: 128
+    commit: 3601
   last60d:
     since: 2026-07-12
-    release: 58
-    mergedPR: 957
-    openPR: 326
-    closedIssue: 159
-    openIssue: 244
-    commit: 5237
+    release: 59
+    mergedPR: 1004
+    openPR: 313
+    closedIssue: 189
+    openIssue: 234
+    commit: 5562
   last90d:
     since: 2026-06-12
-    release: 76
-    mergedPR: 1406
-    openPR: 384
-    closedIssue: 265
-    openIssue: 298
-    commit: 7298
+    release: 77
+    mergedPR: 1453
+    openPR: 371
+    closedIssue: 296
+    openIssue: 287
+    commit: 7623
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 2422
-    openPR: 425
-    closedIssue: 1005
-    openIssue: 449
-    commit: 13642
+    mergedPR: 2469
+    openPR: 412
+    closedIssue: 1036
+    openIssue: 438
+    commit: 13967
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 3151
-    openPR: 437
-    closedIssue: 2167
-    openIssue: 546
-    commit: 18182
+    mergedPR: 3198
+    openPR: 424
+    closedIssue: 2198
+    openIssue: 535
+    commit: 18507
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 3151
-    openPR: 437
-    closedIssue: 2167
-    openIssue: 546
-    commit: 15866
+    mergedPR: 3198
+    openPR: 424
+    closedIssue: 2198
+    openIssue: 535
+    commit: 16203
 total:
-  release: 274
-  mergedPR: 3152
-  openPR: 437
-  closedIssue: 2167
-  openIssue: 546
-  commit: 15866
+  release: 275
+  mergedPR: 3199
+  openPR: 424
+  closedIssue: 2198
+  openIssue: 535
+  commit: 16203
 ---
 path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
-collectedAt: 2026-09-10T05:25:59Z
+collectedAt: 2026-09-10T17:30:44Z
 loc:
   TypeScript:
-    code: 642102
-    comments: 52171
-    blanks: 96003
-    files: 5927
+    code: 651121
+    comments: 53735
+    blanks: 97313
+    files: 5977
   Json:
-    code: 113207
+    code: 114142
     comments: 0
     blanks: 0
     files: 209
   JavaScript:
-    code: 62878
-    comments: 2785
-    blanks: 4920
-    files: 341
+    code: 63852
+    comments: 2936
+    blanks: 5002
+    files: 348
   Python:
     code: 7576
     comments: 415
     blanks: 1543
     files: 59
   Tsx:
-    code: 4653
-    comments: 176
-    blanks: 389
-    files: 70
+    code: 4744
+    comments: 187
+    blanks: 394
+    files: 71
   Sh:
     code: 2006
     comments: 242
@@ -161,19 +161,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 42933
-    blanks: 17509
-    files: 480
+    comments: 42896
+    blanks: 17452
+    files: 483
   Text:
     code: 0
     comments: 491
     blanks: 71
     files: 17
 total:
-  code: 846778
-  comments: 101834
-  blanks: 122899
-  files: 7172
+  code: 857904
+  comments: 103520
+  blanks: 124238
+  files: 7233
 ---
 
 ---
