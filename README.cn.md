@@ -14,14 +14,14 @@ x install oh-my-openagent
 
 ## 代码洞察
 
-合计: **1,045,442** 行代码（覆盖前 5 种语言、共 **7274** 个文件）。
+合计: **1,046,707** 行代码（覆盖前 5 种语言、共 **7288** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 700,591 | 59,822 | 102,767 | 6494 |
-| Json | 244,834 | 0 | 0 | 225 |
-| JavaScript | 81,561 | 3,862 | 5,595 | 414 |
-| Python | 7,634 | 408 | 1,539 | 60 |
+| TypeScript | 701,587 | 59,815 | 102,916 | 6506 |
+| Json | 244,951 | 0 | 0 | 225 |
+| JavaScript | 81,888 | 3,870 | 5,607 | 417 |
+| Python | 7,450 | 347 | 1,491 | 59 |
 | Tsx | 5,045 | 205 | 430 | 81 |
 
 ## 源代码
@@ -32,46 +32,46 @@ x install oh-my-openagent
 
 ## 发布
 
-- **最新版本**: `v5.0.0-beta.85` (2026-09-23)
+- **最新版本**: `v5.0.0-beta.88` (2026-09-23)
 - **最近提交**: 2026-09-23
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 69,306 · **Fork**: 5,713 · **开放 issue**: 2,984 · **贡献者**: 326
+- **Star**: 69,348 · **Fork**: 5,714 · **开放 issue**: 3,004 · **贡献者**: 327
 
 ## 累计统计
 
-- **发布数**: 302 · **已合并 PR**: 3480 · **开放 PR**: 437 · **已关闭 issue**: 2387 · **开放 issue**: 597 · **提交数**: 17430
+- **发布数**: 305 · **已合并 PR**: 3500 · **开放 PR**: 435 · **已关闭 issue**: 2402 · **开放 issue**: 602 · **提交数**: 17498
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 60 | 727 | 198 | 252 | 152 | 3377 |
-| last60d | 2026-07-25 | 80 | 1152 | 315 | 328 | 272 | 5981 |
-| 90d | 2026-06-25 | 96 | 1538 | 373 | 421 | 327 | 7903 |
-| last180d | 2026-03-27 | 100 | 2623 | 418 | 1115 | 488 | 14695 |
-| 360d | 2025-09-28 | 100 | 3478 | 437 | 2387 | 597 | 19724 |
-| last720d | 2024-10-03 | 100 | 3478 | 437 | 2387 | 597 | 17430 |
+| 30d | 2026-08-25 | 61 | 725 | 130 | 261 | 155 | 3444 |
+| last60d | 2026-07-26 | 83 | 1156 | 310 | 342 | 276 | 6048 |
+| 90d | 2026-06-26 | 99 | 1540 | 370 | 430 | 329 | 7970 |
+| last180d | 2026-03-28 | 100 | 2640 | 416 | 1114 | 490 | 14762 |
+| 360d | 2025-09-29 | 100 | 3498 | 435 | 2402 | 602 | 19791 |
+| last720d | 2024-10-04 | 100 | 3498 | 435 | 2402 | 602 | 17498 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [omo-darwin-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-darwin-arm64) | 102.8 MiB | `native/darwin/arm64` |
-| [omo-darwin-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-darwin-x64) | 108.3 MiB | `native/darwin/x64` |
-| [omo-darwin-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-darwin-x64-baseline) | 108.3 MiB | `native/darwin/x64` |
-| [omo-linux-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-linux-arm64) | 119.7 MiB | `native/linux/arm64` |
-| [omo-linux-arm64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-linux-arm64-musl) | 113.1 MiB | `native/linux/arm64/musl` |
-| [omo-linux-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-linux-x64) | 119.7 MiB | `other` |
-| [omo-linux-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-linux-x64-baseline) | 119.7 MiB | `other` |
-| [omo-linux-x64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-linux-x64-musl) | 114.0 MiB | `other` |
-| [omo-linux-x64-musl-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-linux-x64-musl-baseline) | 114.0 MiB | `other` |
-| [omo-windows-arm64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-windows-arm64.exe) | 116.2 MiB | `native/win/arm64` |
-| [omo-windows-x64-baseline.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-windows-x64-baseline.exe) | 124.3 MiB | `native/win/x64` |
-| [omo-windows-x64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/omo-windows-x64.exe) | 124.3 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.85/SHA256SUMS) | 1.0 KiB | `other` |
+| [omo-darwin-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-darwin-arm64) | 102.9 MiB | `native/darwin/arm64` |
+| [omo-darwin-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-darwin-x64) | 108.4 MiB | `native/darwin/x64` |
+| [omo-darwin-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-darwin-x64-baseline) | 108.4 MiB | `native/darwin/x64` |
+| [omo-linux-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-linux-arm64) | 119.9 MiB | `native/linux/arm64` |
+| [omo-linux-arm64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-linux-arm64-musl) | 113.3 MiB | `native/linux/arm64/musl` |
+| [omo-linux-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-linux-x64) | 119.9 MiB | `other` |
+| [omo-linux-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-linux-x64-baseline) | 119.9 MiB | `other` |
+| [omo-linux-x64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-linux-x64-musl) | 114.1 MiB | `other` |
+| [omo-linux-x64-musl-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-linux-x64-musl-baseline) | 114.1 MiB | `other` |
+| [omo-windows-arm64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-windows-arm64.exe) | 116.3 MiB | `native/win/arm64` |
+| [omo-windows-x64-baseline.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-windows-x64-baseline.exe) | 124.4 MiB | `native/win/x64` |
+| [omo-windows-x64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/omo-windows-x64.exe) | 124.4 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.0.0-beta.88/SHA256SUMS) | 1.0 KiB | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ oh-my-openagent 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T05:35:59Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:19:18Z._
