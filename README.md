@@ -38,22 +38,22 @@ Total: **1,059,874** lines of code across **7387** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 69,388 · **Forks**: 5,715 · **Open issues**: 3,041 · **Contributors**: 327
+- **Stars**: 69,428 · **Forks**: 5,717 · **Open issues**: 3,043 · **Contributors**: 327
 
 ## Totals (cumulative)
 
-- **Releases**: 307 · **Merged PRs**: 3545 · **Open PRs**: 443 · **Closed issues**: 2430 · **Open issues**: 611 · **Commits**: 17784
+- **Releases**: 307 · **Merged PRs**: 3545 · **Open PRs**: 451 · **Closed issues**: 2431 · **Open issues**: 612 · **Commits**: 17784
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 62 | 756 | 116 | 284 | 161 | 3668 |
-| last60d | 2026-07-27 | 84 | 1181 | 317 | 365 | 280 | 6272 |
-| 90d | 2026-06-27 | 100 | 1573 | 377 | 453 | 336 | 8194 |
-| last180d | 2026-03-29 | 100 | 2679 | 424 | 1134 | 499 | 14986 |
-| 360d | 2025-09-30 | 100 | 3543 | 443 | 2430 | 611 | 20015 |
-| last720d | 2024-10-05 | 100 | 3543 | 443 | 2430 | 611 | 17784 |
+| 30d | 2026-08-27 | 61 | 723 | 122 | 282 | 155 | 3668 |
+| last60d | 2026-07-28 | 84 | 1161 | 322 | 365 | 276 | 6272 |
+| 90d | 2026-06-28 | 100 | 1553 | 364 | 454 | 334 | 8194 |
+| last180d | 2026-03-30 | 100 | 2677 | 432 | 1125 | 499 | 14986 |
+| 360d | 2025-10-01 | 100 | 3543 | 451 | 2431 | 612 | 20015 |
+| last720d | 2024-10-06 | 100 | 3543 | 451 | 2431 | 612 | 17784 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for oh-my-openagent lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:26:56Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:25:05Z._
