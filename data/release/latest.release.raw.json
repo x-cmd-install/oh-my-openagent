@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 120259760,
       "digest": "sha256:9e0023753378f9d8bf317598e32d6e6d2d4225e06c97eda82c1b7c49b9d2a98b",
-      "download_count": 14,
+      "download_count": 76,
       "created_at": "2026-10-05T03:45:19Z",
       "updated_at": "2026-10-05T03:45:24Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-darwin-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 127372944,
       "digest": "sha256:8ee934ecc3dde5735890efc3eb3a5976a144083ac0397846d7b7278256d3eb17",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-10-05T03:45:19Z",
       "updated_at": "2026-10-05T03:45:25Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-darwin-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 127372944,
       "digest": "sha256:3f9e62a522db4acd0e9e85d78852cede8d8e04375e4ec3c27fc1688dfe316363",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-10-05T03:45:19Z",
       "updated_at": "2026-10-05T03:45:25Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-darwin-x64-baseline"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 133351720,
       "digest": "sha256:87dc0f001e5821599bda889d55b10655136623ba5b74a804bae0edcdc4ce50b2",
-      "download_count": 4,
+      "download_count": 15,
       "created_at": "2026-10-05T03:45:19Z",
       "updated_at": "2026-10-05T03:45:26Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 126487760,
       "digest": "sha256:d27be5ce3610e8c5930bee81e9eb0ecd078ec8fe66b31f6c60db968a3f95f9ba",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-05T03:45:19Z",
       "updated_at": "2026-10-05T03:45:26Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-linux-arm64-musl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 153114080,
       "digest": "sha256:ac5741f3c739353a9af6391ebb4e6b7408398812b9dcf6834d716f0b4db80de6",
-      "download_count": 13,
+      "download_count": 87,
       "created_at": "2026-10-05T03:45:25Z",
       "updated_at": "2026-10-05T03:45:32Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 153114080,
       "digest": "sha256:df4ca3223fe600d3b497f9fbbe759052a11ae9300a9cb965834a8942d5747fc7",
-      "download_count": 4,
+      "download_count": 14,
       "created_at": "2026-10-05T03:45:25Z",
       "updated_at": "2026-10-05T03:45:33Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-linux-x64-baseline"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 127350320,
       "digest": "sha256:be63255aea45e5ab69acc7a7af3cfa07960daedd6aced53e56f73464959c1e3e",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-10-05T03:45:26Z",
       "updated_at": "2026-10-05T03:45:33Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-linux-x64-musl"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 127350320,
       "digest": "sha256:29c4eeca6b55778758831ce319fd71f0c666a193657b2d8bc2e2a09417a7f31d",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-05T03:45:26Z",
       "updated_at": "2026-10-05T03:45:32Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-linux-x64-musl-baseline"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 129655296,
       "digest": "sha256:a05b7724a90399b286bd107d194f63ff8cd5d1c4a18d7fa9a95f7fd36d84191b",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-10-05T03:45:26Z",
       "updated_at": "2026-10-05T03:45:37Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-windows-arm64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 142550528,
       "digest": "sha256:ff313d0d1996d0cccc746d43a95ecb422c4dd12fd0d31aebdb376862bab70612",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-05T03:45:33Z",
       "updated_at": "2026-10-05T03:45:40Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-windows-x64-baseline.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 142550016,
       "digest": "sha256:71c649e05860a1eaeb301bddf619876c843293f7532cb1cc84aec86fcbcb67e4",
-      "download_count": 16,
+      "download_count": 63,
       "created_at": "2026-10-05T03:45:33Z",
       "updated_at": "2026-10-05T03:45:38Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/omo-windows-x64.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 396,
       "digest": "sha256:f55f2483cb3480c299ebd15b38bde6ba814a3693c3c191cfd443df0998f18168",
-      "download_count": 8,
+      "download_count": 83,
       "created_at": "2026-10-05T03:45:35Z",
       "updated_at": "2026-10-05T03:45:35Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/senpi-desktop-engine-checksums.txt"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5405952,
       "digest": "sha256:d1b7ad02ee1486abe7800297d6e52711102bd5fb315914e060960b9937bbe2a0",
-      "download_count": 4,
+      "download_count": 36,
       "created_at": "2026-10-05T03:45:33Z",
       "updated_at": "2026-10-05T03:45:33Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/senpi-desktop-engine-darwin-arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5521552,
       "digest": "sha256:da3b76844ee85b1cd02853219caec29c3566ddcd6082db920b417b24c52dd01e",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-05T03:45:33Z",
       "updated_at": "2026-10-05T03:45:34Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/senpi-desktop-engine-darwin-x64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 19737048,
       "digest": "sha256:13ccc50351ddfdad6e5aee1c34b23f3904cacaedc1a598ce0b3c183abd84e8e2",
-      "download_count": 6,
+      "download_count": 25,
       "created_at": "2026-10-05T03:45:34Z",
       "updated_at": "2026-10-05T03:45:35Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/senpi-desktop-engine-linux-x64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4386816,
       "digest": "sha256:a5470e89ffbe96a40b5a526107dcf18413ebb5cc3d4430e56d5e21f14451ccc7",
-      "download_count": 5,
+      "download_count": 33,
       "created_at": "2026-10-05T03:45:34Z",
       "updated_at": "2026-10-05T03:45:35Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/senpi-desktop-engine-win32-x64.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1040,
       "digest": "sha256:837ef864578a3469475a395b0a6cfcd10786c8b008c9f41ce8efcb3bc7a265e9",
-      "download_count": 6,
+      "download_count": 23,
       "created_at": "2026-10-05T03:45:33Z",
       "updated_at": "2026-10-05T03:45:33Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.19/SHA256SUMS"
@@ -688,5 +688,17 @@
   "tarball_url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent/tarball/v5.1.19",
   "zipball_url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent/zipball/v5.1.19",
   "body": "**Code mode can install JavaScript packages per session.** 5.1.19 runs on senpi 2026.10.10. A cell that is only `%bun add <package ...>` or `%npm add <package ...>` installs packages into the session's own managed environment without restarting the kernel, and the next cell imports them. The project's `package.json` and `node_modules` are untouched and package scripts never run. ([senpi 2026.10.10](https://github.com/code-yeongyu/senpi/releases/tag/v2026.10.10))\n\n### Added\n\n**A Python cell's `@tool` functions can be granted to a task child**, the same way JavaScript `tool(fn)` tools already were. ([#9529](https://github.com/code-yeongyu/oh-my-openagent/pull/9529))\n\n### Changed\n\n**An idle gateway store gives back its worker thread.** After 60 seconds with no store call in flight, the worker is retired, and the next call starts a fresh one with its registrations restored. That frees about 2.9 MB per terminal control endpoint. ([#9592](https://github.com/code-yeongyu/oh-my-openagent/pull/9592))\n\n**omo runs on senpi 2026.10.10.** It warns when a requested thinking level isn't available instead of dropping it, keeps project rule discovery inside the project on Windows, and keeps the resident Claude subscription session receiving only new messages when `compaction.model` is set. Code mode also gets opt-in isolated cells (`isolate: true` with `sandbox.enabled`). Full list: [senpi 2026.10.10](https://github.com/code-yeongyu/senpi/releases/tag/v2026.10.10).\n\nThanks to @Dante-dan for the manifesto reveal fixes on the site ([#9586](https://github.com/code-yeongyu/oh-my-openagent/pull/9586)) and a test-fixture fix ([#9599](https://github.com/code-yeongyu/oh-my-openagent/pull/9599)).\n\n- a8019016f Merge pull request #9615 from code-yeongyu/release/v5.1.19-source-state\n- 69ad5f9b0 Merge pull request #9608 from code-yeongyu/fix/openclaw-ready-test-budget\n- 259acef9b test(openclaw-core): give the reply-listener success test a budget a slow runner cannot miss\n- 689666cf8 Merge pull request #9529 from code-yeongyu/codemode/n27-py-kernel-tools\n- eab62751d Merge dev into the omo#9529 branch\n- b9463e692 Merge pull request #9592 from code-yeongyu/perf/gateway-store-worker-idle-retire\n- ba2eed3a5 Merge pull request #9599 from Dante-dan/fix/9596-process-tree-ready\n- c0209210e Merge pull request #9593 from code-yeongyu/fix/9591-manifesto-lit-depth\n- 6f554f39d fix(web): keep the top three quarters of the manifesto fully lit (#9591)\n- 92ae283cc Merge pull request #9586 from Dante-dan/fix/9558-manifesto-order-rendering\n- ff035f59d Merge remote-tracking branch 'origin/dev' into perf/gateway-store-worker-idle-retire\n- 51cb4ceb5 test(web): normalize glyph screenshot antialiasing\n- 30b29f1fb Merge origin/dev into codemode/n27-py-kernel-tools\n- 33b4c9198 Merge remote-tracking branch 'origin/dev' into perf/gateway-store-worker-idle-retire\n- 7a508a8c9 fix(web): preserve reading order across font metrics and persist glyph evidence\n- 1591fa23f Merge remote-tracking branch 'origin/dev' into perf/gateway-store-worker-idle-retire\n- 7d10ebdac fix(gateway): dispose waits for a retiring store worker; report an unreadable legacy mailbox once\n- 69c609e13 test(web): preserve spatial evidence for split-word failures\n- 071b5a86d perf(gateway): retire the idle store worker thread\n- 63ae0fb13 fix(web): cluster visual lines and tolerate glyph antialiasing\n- e5108c6ad wip(web): clamp manifesto order and compare uniform glyph rendering\n- 0fa40d294 Merge origin/dev into codemode/n27-py-kernel-tools\n\n**Thank you to 1 community contributor:**\n- @Dante-dan:\n  - wip(web): clamp manifesto order and compare uniform glyph rendering\n  - fix(web): cluster visual lines and tolerate glyph antialiasing\n  - test(web): preserve spatial evidence for split-word failures\n  - fix(web): preserve reading order across font metrics and persist glyph evidence\n  - test(web): normalize glyph screenshot antialiasing\n\n```bash\nbun add -g omo-ai\n```\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent/releases/403347930/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }
