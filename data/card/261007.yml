@@ -1,0 +1,189 @@
+about:
+  description: "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+  license: NOASSERTION
+  homepage: https://omo.dev
+  head: 0877669
+  archived: false
+  latestVersion: "v5.1.21"
+  latestRelease: "v5.1.21"
+  latestPrerelease: ""
+  collectedAt: 2026-10-07T06:26:30Z
+timeline:
+  created: 2025-12-03
+  lastCommit: 2026-10-07
+  lastVersion: 2026-10-06
+  lastRelease: 2026-10-06
+  lastPrerelease: 
+popularity:
+  star: 69852
+  watcher: 237
+  fork: 5744
+  release: 330
+  contributor: 332
+  pullRequest: 6152
+  issue: 3384
+language:
+  TypeScript: 36400294
+  JavaScript: 4908757
+  Rust: 1601596
+  Shell: 501030
+  Python: 382626
+  PowerShell: 79247
+  CSS: 38846
+  Dockerfile: 1728
+  Go Template: 1174
+  Go: 993
+totalBytes: 43916291
+recent:
+  last30d:
+    since: 2026-09-07
+    release: 62
+    mergedPR: 853
+    openPR: 133
+    closedIssue: 485
+    openIssue: 196
+    commit: 3537
+  last60d:
+    since: 2026-08-08
+    release: 100
+    mergedPR: 1467
+    openPR: 337
+    closedIssue: 606
+    openIssue: 312
+    commit: 7350
+  last90d:
+    since: 2026-07-09
+    release: 100
+    mergedPR: 1805
+    openPR: 381
+    closedIssue: 692
+    openIssue: 387
+    commit: 9217
+  last180d:
+    since: 2026-04-10
+    release: 100
+    mergedPR: 2952
+    openPR: 462
+    closedIssue: 1266
+    openIssue: 548
+    commit: 15904
+  last360d:
+    since: 2025-10-12
+    release: 100
+    mergedPR: 3944
+    openPR: 484
+    closedIssue: 2705
+    openIssue: 679
+    commit: 22022
+  last720d:
+    since: 2024-10-17
+    release: 100
+    mergedPR: 3944
+    openPR: 484
+    closedIssue: 2705
+    openIssue: 679
+    commit: 20181
+total:
+  release: 330
+  mergedPR: 3946
+  openPR: 484
+  closedIssue: 2705
+  openIssue: 679
+  commit: 20181
+---
+path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
+collectedAt: 2026-10-07T06:27:00Z
+loc:
+  TypeScript:
+    code: 779122
+    comments: 68679
+    blanks: 113249
+    files: 7215
+  Json:
+    code: 242921
+    comments: 0
+    blanks: 0
+    files: 258
+  JavaScript:
+    code: 101183
+    comments: 5718
+    blanks: 6951
+    files: 584
+  Rust:
+    code: 37507
+    comments: 1096
+    blanks: 4284
+    files: 342
+  Python:
+    code: 7664
+    comments: 361
+    blanks: 1555
+    files: 60
+  Tsx:
+    code: 5575
+    comments: 209
+    blanks: 477
+    files: 87
+  Sh:
+    code: 2336
+    comments: 252
+    blanks: 308
+    files: 23
+  PowerShell:
+    code: 1488
+    comments: 140
+    blanks: 132
+    files: 15
+  Css:
+    code: 1342
+    comments: 80
+    blanks: 65
+    files: 2
+  Html:
+    code: 1102
+    comments: 20
+    blanks: 156
+    files: 6
+  Toml:
+    code: 971
+    comments: 13
+    blanks: 59
+    files: 35
+  Yaml:
+    code: 308
+    comments: 46
+    blanks: 21
+    files: 12
+  Svg:
+    code: 89
+    comments: 0
+    blanks: 0
+    files: 4
+  Go:
+    code: 30
+    comments: 3
+    blanks: 6
+    files: 2
+  Sql:
+    code: 15
+    comments: 2
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 52374
+    blanks: 20474
+    files: 524
+  Text:
+    code: 0
+    comments: 342
+    blanks: 59
+    files: 13
+total:
+  code: 1192833
+  comments: 134656
+  blanks: 149744
+  files: 9183
+---
+
+---
