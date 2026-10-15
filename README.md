@@ -14,14 +14,14 @@ x install oh-my-openagent
 
 ## Code insight
 
-Total: **1,228,658** lines of code across **8883** files in the top 5 languages.
+Total: **1,235,073** lines of code across **8927** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 811,712 | 73,363 | 117,574 | 7544 |
-| Json | 246,115 | 0 | 0 | 260 |
-| JavaScript | 104,581 | 5,859 | 7,134 | 612 |
-| Rust | 45,022 | 1,394 | 5,012 | 406 |
+| TypeScript | 815,095 | 73,925 | 118,156 | 7568 |
+| Json | 246,603 | 0 | 0 | 261 |
+| JavaScript | 104,638 | 5,876 | 7,140 | 612 |
+| Rust | 47,064 | 1,485 | 5,165 | 425 |
 | Python | 7,763 | 362 | 1,584 | 61 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,228,658** lines of code across **8883** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.1.33` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-15
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 70,010 · **Forks**: 5,762 · **Open issues**: 3,605 · **Contributors**: 337
+- **Stars**: 70,042 · **Forks**: 5,764 · **Open issues**: 3,635 · **Contributors**: 337
 
 ## Totals (cumulative)
 
-- **Releases**: 340 · **Merged PRs**: 4115 · **Open PRs**: 502 · **Closed issues**: 2806 · **Open issues**: 799 · **Commits**: 21375
+- **Releases**: 340 · **Merged PRs**: 4125 · **Open PRs**: 520 · **Closed issues**: 2809 · **Open issues**: 826 · **Commits**: 21489
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 59 | 814 | 131 | 496 | 303 | 4038 |
-| last60d | 2026-08-15 | 100 | 1543 | 334 | 674 | 408 | 7698 |
-| 90d | 2026-07-16 | 100 | 1872 | 392 | 768 | 500 | 10034 |
-| last180d | 2026-04-17 | 100 | 3075 | 480 | 1302 | 656 | 16864 |
-| 360d | 2025-10-19 | 100 | 4113 | 502 | 2806 | 799 | 23216 |
-| last720d | 2024-10-24 | 100 | 4113 | 502 | 2806 | 799 | 21375 |
+| 30d | 2026-09-15 | 59 | 810 | 143 | 487 | 326 | 4152 |
+| last60d | 2026-08-16 | 100 | 1528 | 345 | 671 | 431 | 7812 |
+| 90d | 2026-07-17 | 100 | 1860 | 408 | 770 | 526 | 10148 |
+| last180d | 2026-04-18 | 100 | 3077 | 498 | 1301 | 679 | 16978 |
+| 360d | 2025-10-20 | 100 | 4123 | 520 | 2809 | 826 | 23330 |
+| last720d | 2024-10-25 | 100 | 4123 | 520 | 2809 | 826 | 21489 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for oh-my-openagent lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:37:53Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:13:52Z._
