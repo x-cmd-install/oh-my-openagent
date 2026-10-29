@@ -14,14 +14,14 @@ x install oh-my-openagent
 
 ## Code insight
 
-Total: **1,428,586** lines of code across **10633** files in the top 5 languages.
+Total: **1,439,942** lines of code across **10707** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 953,301 | 87,417 | 133,470 | 8990 |
-| Json | 276,128 | 0 | 0 | 306 |
-| JavaScript | 116,963 | 7,637 | 8,205 | 741 |
-| Rust | 58,834 | 2,258 | 6,183 | 535 |
+| TypeScript | 958,362 | 87,986 | 134,072 | 9026 |
+| Json | 275,765 | 0 | 0 | 307 |
+| JavaScript | 117,215 | 7,669 | 8,216 | 741 |
+| Rust | 64,078 | 2,443 | 6,724 | 572 |
 | Python | 7,776 | 362 | 1,589 | 61 |
 
 ## Source
@@ -32,53 +32,53 @@ Total: **1,428,586** lines of code across **10633** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v5.1.48` (2026-10-25)
-- **Last commit**: 2026-10-28
+- **Latest**: `v5.1.51` (2026-10-28)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 70,419 · **Forks**: 5,806 · **Open issues**: 4,389 · **Contributors**: 343
+- **Stars**: 70,450 · **Forks**: 5,811 · **Open issues**: 4,476 · **Contributors**: 343
 
 ## Totals (cumulative)
 
-- **Releases**: 352 · **Merged PRs**: 4621 · **Open PRs**: 635 · **Closed issues**: 3128 · **Open issues**: 1261 · **Commits**: 26216
+- **Releases**: 353 · **Merged PRs**: 4655 · **Open PRs**: 674 · **Closed issues**: 3159 · **Open issues**: 1317 · **Commits**: 26433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 43 | 914 | 240 | 520 | 714 | 6676 |
-| last60d | 2026-08-29 | 100 | 1776 | 325 | 943 | 828 | 11242 |
-| 90d | 2026-07-30 | 100 | 2204 | 508 | 1040 | 928 | 14052 |
-| last180d | 2026-05-01 | 100 | 3520 | 611 | 1541 | 1095 | 21185 |
-| 360d | 2025-11-02 | 100 | 4620 | 635 | 3128 | 1261 | 28075 |
-| last720d | 2024-11-07 | 100 | 4620 | 635 | 3128 | 1261 | 26216 |
+| 30d | 2026-09-29 | 43 | 899 | 279 | 518 | 763 | 6896 |
+| last60d | 2026-08-30 | 100 | 1796 | 363 | 972 | 880 | 11462 |
+| 90d | 2026-07-31 | 100 | 2218 | 545 | 1070 | 976 | 14272 |
+| last180d | 2026-05-02 | 100 | 3554 | 650 | 1561 | 1150 | 21405 |
+| 360d | 2025-11-03 | 100 | 4654 | 674 | 3159 | 1317 | 28295 |
+| last720d | 2024-11-08 | 100 | 4654 | 674 | 3159 | 1317 | 26433 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [omo-darwin-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-darwin-arm64) | 141.6 MiB | `native/darwin/arm64` |
-| [omo-darwin-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-darwin-x64) | 149.2 MiB | `native/darwin/x64` |
-| [omo-darwin-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-darwin-x64-baseline) | 149.2 MiB | `native/darwin/x64` |
-| [omo-linux-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-linux-arm64) | 170.5 MiB | `native/linux/arm64` |
-| [omo-linux-arm64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-linux-arm64-musl) | 145.5 MiB | `native/linux/arm64/musl` |
-| [omo-linux-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-linux-x64) | 172.8 MiB | `other` |
-| [omo-linux-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-linux-x64-baseline) | 172.8 MiB | `other` |
-| [omo-linux-x64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-linux-x64-musl) | 147.0 MiB | `other` |
-| [omo-linux-x64-musl-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-linux-x64-musl-baseline) | 147.0 MiB | `other` |
-| [omo-windows-arm64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-windows-arm64.exe) | 150.1 MiB | `native/win/arm64` |
-| [omo-windows-x64-baseline.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-windows-x64-baseline.exe) | 163.4 MiB | `native/win/x64` |
-| [omo-windows-x64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/omo-windows-x64.exe) | 163.4 MiB | `native/win/x64` |
-| [senpi-desktop-engine-checksums.txt](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/senpi-desktop-engine-checksums.txt) | 598 B | `other` |
-| [senpi-desktop-engine-darwin-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/senpi-desktop-engine-darwin-arm64) | 6.9 MiB | `native/darwin/arm64` |
-| [senpi-desktop-engine-darwin-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/senpi-desktop-engine-darwin-x64) | 7.0 MiB | `native/darwin/x64` |
-| [senpi-desktop-engine-linux-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/senpi-desktop-engine-linux-arm64) | 17.8 MiB | `native/linux/arm64` |
-| [senpi-desktop-engine-linux-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/senpi-desktop-engine-linux-x64) | 19.6 MiB | `other` |
-| [senpi-desktop-engine-win32-arm64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/senpi-desktop-engine-win32-arm64.exe) | 4.1 MiB | `native/win/arm64` |
-| [senpi-desktop-engine-win32-x64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/senpi-desktop-engine-win32-x64.exe) | 4.9 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.48/SHA256SUMS) | 1.0 KiB | `other` |
+| [omo-darwin-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-darwin-arm64) | 159.7 MiB | `native/darwin/arm64` |
+| [omo-darwin-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-darwin-x64) | 168.5 MiB | `native/darwin/x64` |
+| [omo-darwin-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-darwin-x64-baseline) | 168.5 MiB | `native/darwin/x64` |
+| [omo-linux-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-linux-arm64) | 189.2 MiB | `native/linux/arm64` |
+| [omo-linux-arm64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-linux-arm64-musl) | 164.1 MiB | `native/linux/arm64/musl` |
+| [omo-linux-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-linux-x64) | 191.0 MiB | `other` |
+| [omo-linux-x64-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-linux-x64-baseline) | 191.0 MiB | `other` |
+| [omo-linux-x64-musl](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-linux-x64-musl) | 165.2 MiB | `other` |
+| [omo-linux-x64-musl-baseline](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-linux-x64-musl-baseline) | 165.2 MiB | `other` |
+| [omo-windows-arm64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-windows-arm64.exe) | 167.0 MiB | `native/win/arm64` |
+| [omo-windows-x64-baseline.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-windows-x64-baseline.exe) | 182.1 MiB | `native/win/x64` |
+| [omo-windows-x64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/omo-windows-x64.exe) | 182.1 MiB | `native/win/x64` |
+| [senpi-desktop-engine-checksums.txt](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/senpi-desktop-engine-checksums.txt) | 598 B | `other` |
+| [senpi-desktop-engine-darwin-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/senpi-desktop-engine-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
+| [senpi-desktop-engine-darwin-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/senpi-desktop-engine-darwin-x64) | 7.1 MiB | `native/darwin/x64` |
+| [senpi-desktop-engine-linux-arm64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/senpi-desktop-engine-linux-arm64) | 17.8 MiB | `native/linux/arm64` |
+| [senpi-desktop-engine-linux-x64](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/senpi-desktop-engine-linux-x64) | 19.7 MiB | `other` |
+| [senpi-desktop-engine-win32-arm64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/senpi-desktop-engine-win32-arm64.exe) | 4.1 MiB | `native/win/arm64` |
+| [senpi-desktop-engine-win32-x64.exe](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/senpi-desktop-engine-win32-x64.exe) | 4.9 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.51/SHA256SUMS) | 1.0 KiB | `other` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for oh-my-openagent lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:12:54Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:26:56Z._
