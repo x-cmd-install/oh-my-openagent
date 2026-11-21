@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 226062784,
       "digest": "sha256:2c8e76b57eb3dad317cf0b90e5f3f324e51816d107ca0bc7235ae1a9d5e1c790",
-      "download_count": 128,
+      "download_count": 200,
       "created_at": "2026-11-19T06:09:14Z",
       "updated_at": "2026-11-19T06:09:25Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-darwin-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 235696736,
       "digest": "sha256:f8493cf64ee9a0d2d181547d80d0a73c990a29d3f6305a98c6cc70db4ac38295",
-      "download_count": 17,
+      "download_count": 26,
       "created_at": "2026-11-19T06:09:14Z",
       "updated_at": "2026-11-19T06:09:21Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-darwin-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 235696736,
       "digest": "sha256:0d386bbba94ec54f9a42f9ced748c368eac0f130ebf18051e757bd37f7e053dd",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-19T06:09:14Z",
       "updated_at": "2026-11-19T06:09:23Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-darwin-x64-baseline"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 193312,
       "digest": "sha256:0f183904b0cbf8a42512fa857c8c290b73d15fa60e8ab68199895c7235ea4ab5",
-      "download_count": 11,
+      "download_count": 18,
       "created_at": "2026-11-19T06:09:14Z",
       "updated_at": "2026-11-19T06:09:15Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-keychain-darwin-universal"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 256560120,
       "digest": "sha256:a005c5a0e7e1433fba8b89099b2722a0cbf0ca517fed3e3000e9a2500a724f19",
-      "download_count": 20,
+      "download_count": 33,
       "created_at": "2026-11-19T06:09:14Z",
       "updated_at": "2026-11-19T06:09:23Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 228334696,
       "digest": "sha256:f8665bca02c08e94cb5646513108ec686c64d2da23066506744ba78e84ed1414",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-11-19T06:09:15Z",
       "updated_at": "2026-11-19T06:09:22Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-linux-arm64-musl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 258603184,
       "digest": "sha256:1bf124c3e68c819e8ec6bced6df7ec52c803bd43bd2f015f703cd095c3225474",
-      "download_count": 163,
+      "download_count": 227,
       "created_at": "2026-11-19T06:09:22Z",
       "updated_at": "2026-11-19T06:09:31Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-linux-x64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 258603184,
       "digest": "sha256:881628c890fdb8cc0796d63d67fdc94693848116ed7794c05cf625e5f9200810",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-11-19T06:09:22Z",
       "updated_at": "2026-11-19T06:09:29Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-linux-x64-baseline"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 229438888,
       "digest": "sha256:510e8017d78326dede5a44c6cc528a67a37e69750f272f5f191ac3a272188fe9",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-11-19T06:09:23Z",
       "updated_at": "2026-11-19T06:09:31Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-linux-x64-musl"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 229438888,
       "digest": "sha256:83c249e892e2a2cd8c1ff19710374d486fbda45e56d8ee4d2ab9be8966c849bb",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-19T06:09:23Z",
       "updated_at": "2026-11-19T06:09:32Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-linux-x64-musl-baseline"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 22,
       "digest": "sha256:a51061a13c00d595ae66e3b4f1da10fe4cd16b1f8e08d8bf6ceafe00e9607282",
-      "download_count": 11,
+      "download_count": 19,
       "created_at": "2026-11-19T06:09:25Z",
       "updated_at": "2026-11-19T06:09:25Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-runtime-capabilities.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 232788992,
       "digest": "sha256:8a5ff465880975c52aa40c0bc87705bd12126a5d8ae802f0dac32b5a51b2b9f8",
-      "download_count": 35,
+      "download_count": 52,
       "created_at": "2026-11-19T06:09:26Z",
       "updated_at": "2026-11-19T06:09:33Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-windows-arm64.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 248866304,
       "digest": "sha256:1e9882ee4c064f5eb6c4eaed85372a8fb2810a6e3722e7d7acf2d24835dbc720",
-      "download_count": 48,
+      "download_count": 67,
       "created_at": "2026-11-19T06:09:30Z",
       "updated_at": "2026-11-19T06:09:36Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-windows-x64-baseline.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 248866304,
       "digest": "sha256:8777a8b78409d5431b83cd70b09d1fc0303fbcf27a0351a43fd0948f9306fc9f",
-      "download_count": 111,
+      "download_count": 156,
       "created_at": "2026-11-19T06:09:32Z",
       "updated_at": "2026-11-19T06:09:39Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/omo-windows-x64.exe"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 598,
       "digest": "sha256:64c9bd4186122290779e2233391ce8ad7d5eedbee2329b6438ce05a7bff040a9",
-      "download_count": 50,
+      "download_count": 81,
       "created_at": "2026-11-19T06:09:35Z",
       "updated_at": "2026-11-19T06:09:35Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/senpi-desktop-engine-checksums.txt"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8800992,
       "digest": "sha256:cce08ba054872d3ea6fd44e5db3c103dd138c7b926e60afddcad6a26e2180af0",
-      "download_count": 32,
+      "download_count": 53,
       "created_at": "2026-11-19T06:09:32Z",
       "updated_at": "2026-11-19T06:09:33Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/senpi-desktop-engine-darwin-arm64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 8968048,
       "digest": "sha256:3a6d0dcf856de078b76c901827bfcf8af42af7046f57d446c0b34d0ccd7d2142",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-11-19T06:09:32Z",
       "updated_at": "2026-11-19T06:09:33Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/senpi-desktop-engine-darwin-x64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 20600264,
       "digest": "sha256:a717866561d72a813ff5aceb89dddc05e79ec185f5475926549c865eaf46fca1",
-      "download_count": 9,
+      "download_count": 16,
       "created_at": "2026-11-19T06:09:33Z",
       "updated_at": "2026-11-19T06:09:34Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/senpi-desktop-engine-linux-arm64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 22755264,
       "digest": "sha256:1cfcd93569e3418124076aee70a6dc111b18a3fa4feca3c60f2dab65b3e81b39",
-      "download_count": 15,
+      "download_count": 26,
       "created_at": "2026-11-19T06:09:33Z",
       "updated_at": "2026-11-19T06:09:34Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/senpi-desktop-engine-linux-x64"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 5264896,
       "digest": "sha256:a09201bd6a0c798bb36d1488d531c0c5592a8549e5a4bc0f42a218985d97d504",
-      "download_count": 9,
+      "download_count": 16,
       "created_at": "2026-11-19T06:09:33Z",
       "updated_at": "2026-11-19T06:09:34Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/senpi-desktop-engine-win32-arm64.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 6276608,
       "digest": "sha256:626aebbc81a7e0fdcf76d51f383cddbe5a974afa660dedb44898a1cc2407bd69",
-      "download_count": 26,
+      "download_count": 45,
       "created_at": "2026-11-19T06:09:34Z",
       "updated_at": "2026-11-19T06:09:35Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/senpi-desktop-engine-win32-x64.exe"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 1232,
       "digest": "sha256:3ce6603cf71141282a698b37d96f6887528cdd342e7337a35276f28c4c29ac82",
-      "download_count": 92,
+      "download_count": 114,
       "created_at": "2026-11-19T06:09:32Z",
       "updated_at": "2026-11-19T06:09:32Z",
       "browser_download_url": "https://github.com/code-yeongyu/oh-my-openagent/releases/download/v5.1.79/SHA256SUMS"
