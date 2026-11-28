@@ -1,0 +1,241 @@
+about:
+  description: "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+  license: NOASSERTION
+  homepage: https://omo.dev
+  head: 1a3f88c
+  archived: false
+  latestVersion: "v5.1.84"
+  latestRelease: "v5.1.84"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:23:40Z
+timeline:
+  created: 2025-12-03
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-26
+  lastPrerelease: 
+popularity:
+  star: 71163
+  watcher: 224
+  fork: 5841
+  release: 381
+  contributor: 347
+  pullRequest: 9001
+  issue: 6180
+language:
+  TypeScript: 61379695
+  JavaScript: 6765504
+  Rust: 6101277
+  Shell: 599923
+  Python: 444573
+  PowerShell: 113522
+  Swift: 99342
+  C: 82221
+  CSS: 80052
+  C#: 63842
+  Objective-C: 27396
+  Dockerfile: 7084
+  HTML: 4431
+  Go Template: 1174
+  Go: 993
+  Vue: 391
+  SCSS: 270
+totalBytes: 75771690
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 28
+    mergedPR: 1092
+    openPR: 436
+    closedIssue: 726
+    openIssue: 948
+    commit: 10607
+  last60d:
+    since: 2026-09-29
+    release: 71
+    mergedPR: 2091
+    openPR: 554
+    closedIssue: 1399
+    openIssue: 1587
+    commit: 18696
+  last90d:
+    since: 2026-08-30
+    release: 100
+    mergedPR: 2992
+    openPR: 618
+    closedIssue: 1867
+    openIssue: 1690
+    commit: 23170
+  last180d:
+    since: 2026-06-01
+    release: 100
+    mergedPR: 4431
+    openPR: 863
+    closedIssue: 2240
+    openIssue: 1899
+    commit: 30629
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 5850
+    openPR: 907
+    closedIssue: 4068
+    openIssue: 2112
+    commit: 39684
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 5850
+    openPR: 907
+    closedIssue: 4068
+    openIssue: 2112
+    commit: 37787
+total:
+  release: 381
+  mergedPR: 5850
+  openPR: 907
+  closedIssue: 4068
+  openIssue: 2112
+  commit: 37787
+---
+path: /home/runner/.x-repo/github.com/code-yeongyu/oh-my-openagent
+collectedAt: 2026-11-28T09:26:18Z
+loc:
+  TypeScript:
+    code: 1327859
+    comments: 112244
+    blanks: 157782
+    files: 11525
+  Json:
+    code: 453721
+    comments: 0
+    blanks: 0
+    files: 682
+  JavaScript:
+    code: 152408
+    comments: 9209
+    blanks: 9087
+    files: 821
+  Rust:
+    code: 137525
+    comments: 4251
+    blanks: 14003
+    files: 1179
+  Python:
+    code: 9073
+    comments: 304
+    blanks: 1804
+    files: 75
+  Tsx:
+    code: 5949
+    comments: 243
+    blanks: 501
+    files: 119
+  Sh:
+    code: 4064
+    comments: 504
+    blanks: 398
+    files: 40
+  Css:
+    code: 2999
+    comments: 156
+    blanks: 241
+    files: 23
+  Swift:
+    code: 2132
+    comments: 115
+    blanks: 240
+    files: 22
+  PowerShell:
+    code: 2038
+    comments: 194
+    blanks: 171
+    files: 23
+  C:
+    code: 1726
+    comments: 107
+    blanks: 151
+    files: 13
+  Toml:
+    code: 1363
+    comments: 30
+    blanks: 111
+    files: 77
+  Html:
+    code: 1301
+    comments: 22
+    blanks: 156
+    files: 20
+  CSharp:
+    code: 1161
+    comments: 35
+    blanks: 114
+    files: 8
+  ObjectiveC:
+    code: 576
+    comments: 34
+    blanks: 37
+    files: 2
+  Yaml:
+    code: 308
+    comments: 46
+    blanks: 21
+    files: 12
+  CHeader:
+    code: 105
+    comments: 2
+    blanks: 23
+    files: 2
+  Svg:
+    code: 89
+    comments: 0
+    blanks: 0
+    files: 4
+  Dockerfile:
+    code: 72
+    comments: 17
+    blanks: 3
+    files: 4
+  Go:
+    code: 30
+    comments: 3
+    blanks: 6
+    files: 2
+  Sql:
+    code: 15
+    comments: 2
+    blanks: 1
+    files: 1
+  Sass:
+    code: 13
+    comments: 0
+    blanks: 1
+    files: 1
+  Ini:
+    code: 6
+    comments: 3
+    blanks: 0
+    files: 2
+  Vue:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 2
+  Markdown:
+    code: 0
+    comments: 63150
+    blanks: 24370
+    files: 653
+  Text:
+    code: 0
+    comments: 6155
+    blanks: 140
+    files: 25
+total:
+  code: 2115887
+  comments: 210578
+  blanks: 211547
+  files: 15337
+---
+
+---
